@@ -24,3 +24,7 @@ music/background | stock
 </div><br /></b><!--EndFragment-->
 </body>
 </html>
+
+
+Begining of an outline: 
+
