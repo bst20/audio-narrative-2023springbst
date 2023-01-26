@@ -38,3 +38,4 @@ Outline of Concept:
     - and then faints or slowly fades into silence
     - _the end_
 
+![image](https://user-images.githubusercontent.com/122503776/214887480-374371f4-d444-4fc3-9742-2adf302b1ddd.png)
