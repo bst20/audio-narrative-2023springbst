@@ -1,6 +1,6 @@
 # audio-narrative-2023springbst
 
-Most up-to-date audacity file is _audio projec first draft progress.aup3_
+Most up-to-date audacity file is under "project files-exports" and is called _audio projec first draft progress.aup3_
 
 This is where the audio project will come to fruition 
 
