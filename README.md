@@ -26,5 +26,16 @@ music/background | stock
 </html>
 
 
-Begining of an outline: 
+Outline of Concept: 
 
+- like an Alice in wonderland kind of adventure where someone discovers something magical or confusing
+    - chilling in a meadow, peacefully reading a book
+    - hears some thing move in the distance, leaves rustling, soft footsteps
+    - gets up to explore what it was
+    - finds some type of fruit that looks appetizing
+    - eats said fruit as the thing runs into the distance
+    - some type of inner monologue or existential crisis, kind of like they are high on drugs
+    - and then faints or slowly fades into silence
+    - _the end_
+
+![image](https://user-images.githubusercontent.com/122503776/214887480-374371f4-d444-4fc3-9742-2adf302b1ddd.png)
