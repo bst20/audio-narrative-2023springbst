@@ -1,7 +1,8 @@
 # audio-narrative-2023springbst
 
 Most up-to-date audacity file is under "project files-exports" and is called _audio projec first draft progress.aup3_
-Final mp3 file is "something in the woods_audio narrative_tuncer"
+
+**Final mp3 file is "something in the woods_audio narrative_tuncer"**
 
 This is where the audio project will come to fruition 
 
